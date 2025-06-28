@@ -1,0 +1,241 @@
+/* Kosmotheon Custom Styles */
+
+/* Custom color variables */
+:root {
+  --kosmic-primary: #6366f1;
+  --kosmic-secondary: #8b5cf6;
+  --kosmic-accent: #06b6d4;
+  --kosmic-warning: #f59e0b;
+  --kosmic-success: #10b981;
+  --kosmic-error: #ef4444;
+  --kosmic-text: #1f2937;
+  --kosmic-text-light: #6b7280;
+  --kosmic-bg: #ffffff;
+  --kosmic-bg-secondary: #f9fafb;
+  --kosmic-border: #e5e7eb;
+}
+
+/* Dark mode variables */
+[data-md-color-scheme="slate"] {
+  --kosmic-text: #f9fafb;
+  --kosmic-text-light: #d1d5db;
+  --kosmic-bg: #1f2937;
+  --kosmic-bg-secondary: #111827;
+  --kosmic-border: #374151;
+}
+
+/* Enhanced typography */
+.md-content {
+  font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  line-height: 1.7;
+}
+
+/* Kosmic section headers */
+.kosmic-section {
+  border-left: 4px solid var(--kosmic-primary);
+  padding-left: 1rem;
+  margin: 2rem 0;
+}
+
+.kosmic-section h2 {
+  color: var(--kosmic-primary);
+  margin-bottom: 1rem;
+}
+
+/* Enhanced blockquotes */
+blockquote {
+  border-left: 4px solid var(--kosmic-accent);
+  background: linear-gradient(135deg, var(--kosmic-bg-secondary) 0%, var(--kosmic-bg) 100%);
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 0 8px 8px 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+blockquote p {
+  margin: 0;
+  font-style: italic;
+  color: var(--kosmic-text);
+}
+
+/* Kosmic concept boxes */
+.kosmic-concept {
+  background: linear-gradient(135deg, var(--kosmic-primary) 0%, var(--kosmic-secondary) 100%);
+  color: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  margin: 2rem 0;
+  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+}
+
+.kosmic-concept h3 {
+  color: white;
+  margin-top: 0;
+}
+
+/* Practice boxes */
+.practice-box {
+  background: linear-gradient(135deg, var(--kosmic-success) 0%, #059669 100%);
+  color: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  margin: 2rem 0;
+  box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);
+}
+
+/* Warning boxes */
+.warning-box {
+  background: linear-gradient(135deg, var(--kosmic-warning) 0%, #d97706 100%);
+  color: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  margin: 2rem 0;
+  box-shadow: 0 4px 12px rgba(245, 158, 11, 0.3);
+}
+
+/* Enhanced code blocks */
+.md-typeset code {
+  background-color: var(--kosmic-bg-secondary);
+  border: 1px solid var(--kosmic-border);
+  border-radius: 4px;
+  padding: 0.2rem 0.4rem;
+  font-size: 0.9em;
+}
+
+.md-typeset pre > code {
+  background-color: var(--kosmic-bg-secondary);
+  border: 1px solid var(--kosmic-border);
+  border-radius: 8px;
+  padding: 1rem;
+  font-size: 0.9em;
+  line-height: 1.6;
+}
+
+/* Navigation enhancements */
+.md-nav__link {
+  transition: all 0.2s ease;
+}
+
+.md-nav__link:hover {
+  color: var(--kosmic-primary);
+  background-color: var(--kosmic-bg-secondary);
+}
+
+/* Table enhancements */
+.md-typeset table {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.md-typeset table th {
+  background-color: var(--kosmic-primary);
+  color: white;
+  font-weight: 600;
+}
+
+.md-typeset table td {
+  border-bottom: 1px solid var(--kosmic-border);
+}
+
+/* Admonition enhancements */
+.md-typeset .admonition {
+  border-radius: 8px;
+  border: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.md-typeset .admonition-title {
+  border-radius: 8px 8px 0 0;
+  font-weight: 600;
+}
+
+/* Kosmic grid layout */
+.kosmic-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.kosmic-card {
+  background: var(--kosmic-bg);
+  border: 1px solid var(--kosmic-border);
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.kosmic-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Kosmic timeline */
+.kosmic-timeline {
+  position: relative;
+  padding-left: 2rem;
+}
+
+.kosmic-timeline::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: linear-gradient(to bottom, var(--kosmic-primary), var(--kosmic-secondary));
+}
+
+.kosmic-timeline-item {
+  position: relative;
+  margin-bottom: 2rem;
+}
+
+.kosmic-timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -2.5rem;
+  top: 0.5rem;
+  width: 12px;
+  height: 12px;
+  background: var(--kosmic-primary);
+  border-radius: 50%;
+  border: 3px solid var(--kosmic-bg);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .kosmic-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .kosmic-section {
+    padding-left: 0.5rem;
+  }
+  
+  blockquote {
+    padding: 1rem;
+  }
+}
+
+/* Print styles */
+@media print {
+  .kosmic-concept,
+  .practice-box,
+  .warning-box {
+    break-inside: avoid;
+    box-shadow: none;
+    border: 1px solid #ccc;
+  }
+  
+  .kosmic-grid {
+    display: block;
+  }
+  
+  .kosmic-card {
+    break-inside: avoid;
+    margin-bottom: 1rem;
+  }
+} 
