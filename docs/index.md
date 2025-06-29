@@ -1,4 +1,4 @@
-# Welcome to Kosmotheon 🌌
+# Welcome to Kosmotheon
 
 > *An open-source, evolving knowledge base that maps the full spectrum of human consciousness, spiritual development, and cultural evolution.*
 
@@ -15,7 +15,7 @@ To map the full spectrum of human consciousness and spiritual development throug
 - **Developmental Awareness**: Understanding consciousness as an evolving, stage-based phenomenon
 - **Practical Application**: Providing tools and frameworks for personal and collective transformation
 
-## 🧭 The Kosmos
+## The Kosmos
 
 **Foundation of reality and consciousness**
 
@@ -25,7 +25,7 @@ To map the full spectrum of human consciousness and spiritual development throug
 - [Time, Space, and the Kosmic Pattern](the-kosmos/time-space-consciousness.md)
 - [Divine Immanence vs Transcendence](the-kosmos/immanence-transcendence.md)
 
-## 🧬 Maps of Human Evolution
+## Maps of Human Evolution
 
 **Psychological, cognitive, cultural development**
 
@@ -36,7 +36,7 @@ To map the full spectrum of human consciousness and spiritual development throug
 - [STAGES / Ego Development Models](maps-of-human-evolution/ego-development.md)
 - [Typologies (Jungian, Enneagram, Big Five)](maps-of-human-evolution/typologies.md)
 
-## 🧠 States & Stages of Consciousness
+## States & Stages of Consciousness
 
 **Temporary and permanent transformations of awareness**
 
@@ -46,7 +46,7 @@ To map the full spectrum of human consciousness and spiritual development throug
 - [Waking / Dreaming / Deep Sleep and Beyond](states-and-stages/sleep-consciousness.md)
 - [Spiritual Emergencies & Integration Challenges](states-and-stages/spiritual-emergencies.md)
 
-## 🕊 Paths, Practices & Psychotechnologies
+## Paths, Practices & Psychotechnologies
 
 **Tools and methods for transformation**
 
@@ -56,11 +56,11 @@ To map the full spectrum of human consciousness and spiritual development throug
 - [Rituals, Sadhana, Embodied Inquiry](practices/embodied-practices.md)
 - [Practice Maps Across Traditions](practices/practice-maps.md)
 
-## 🕯 Religious Evolution & Wisdom Traditions
+## Religious Evolution & Wisdom Traditions
 
 **The unfolding story of spirit through history**
 
-### 🌐 Comparative Religion
+### Comparative Religion
 - [Hinduism](traditions/hinduism.md)
 - [Buddhism](traditions/buddhism.md)
 - [Taoism](traditions/taoism.md)
@@ -71,32 +71,32 @@ To map the full spectrum of human consciousness and spiritual development throug
 - [Mystical Schools](traditions/mystical-schools.md)
 - [Emerging Traditions](traditions/emerging-traditions.md)
 
-### 📈 Evolution of Religion
+### Evolution of Religion
 - [Mythic → Rational → Pluralist → Integral → Post-Integral](evolution-of-religion/religious-evolution.md)
 - [Axial Age(s) & Future Axial Moments](evolution-of-religion/axial-ages.md)
 - [Deconstruction & Reconstruction (Religion 2.0)](evolution-of-religion/religion-2-0.md)
 - [Metamodern Mysticism & Sacred Syncretism](evolution-of-religion/metamodern-mysticism.md)
 
-## 🧘 Positive & Negative Ego
+## Positive & Negative Ego
 
 **A developmental and energetic view of identity**
 
-### ☀️ Positive Ego Traits
+### Positive Ego Traits
 - [Grounded selfhood, boundaries, confidence, authenticity](ego/positive-ego-traits.md)
 - [Healthy ambition, agency, sovereignty](ego/healthy-ego.md)
 - [Role integration with self-awareness](ego/role-integration.md)
 
-### 🌑 Negative Ego Traits
+### Negative Ego Traits
 - [Spiritual narcissism, control, rigidity](ego/spiritual-narcissism.md)
 - [Defensiveness, projection, disembodiment](ego/negative-ego-patterns.md)
 - [Avoidance, superiority/inferiority games](ego/ego-games.md)
 
-### 💠 Ego at Different Stages
+### Ego at Different Stages
 - [Pre-Rational, Rational, Post-Rational Development](ego/ego-development-stages.md)
 - [Dissolution vs Integration](ego/ego-dissolution-integration.md)
 - [Subpersonalities, Trauma, and the Authentic Self](ego/subpersonalities-trauma.md)
 
-## 🧬 Consciousness Profiles Index
+## Consciousness Profiles Index
 
 **A Codex of Consciousness Patterns**
 
@@ -107,7 +107,7 @@ To map the full spectrum of human consciousness and spiritual development throug
 - [Collective Ego](glossary/collective-ego.md)
 - [Authentic Self](glossary/authentic-self.md)
 
-## 📚 Teachers, Thinkers & Lineages
+## Teachers, Thinkers & Lineages
 
 **The Kosmic Library of the Sages**
 
@@ -118,7 +118,7 @@ To map the full spectrum of human consciousness and spiritual development throug
 - [Don Beck](thinkers/don-beck.md)
 - [And more...](thinkers/index.md)
 
-## 🕸 Glossary & Kosmic Lexicon
+## Glossary & Kosmic Lexicon
 
 **Cross-model terminology index**
 
@@ -127,7 +127,7 @@ To map the full spectrum of human consciousness and spiritual development throug
 - [Consciousness State Index](glossary/consciousness-states-index.md)
 - [Spiritual Jargon Decoder](glossary/spiritual-jargon.md)
 
-## 🎨 Kosmic Culture & Mythopoesis
+## Kosmic Culture & Mythopoesis
 
 **Aesthetic expressions of awakening**
 
@@ -137,7 +137,7 @@ To map the full spectrum of human consciousness and spiritual development throug
 - [AI, Tech, and the Sacred Machine](kosmic-culture/conscious-tech.md)
 - [Sacred Futurism: Designing Meaning](kosmic-culture/sacred-futurism.md)
 
-## 🌍 Future of Religion & the One-World Dharma
+## Future of Religion & the One-World Dharma
 
 **Toward a post-lineage planetary spirituality**
 
@@ -147,7 +147,7 @@ To map the full spectrum of human consciousness and spiritual development throug
 - [Planetary Ethics, Post-Metaphysics, Embodied Unity](one-world-dharma/planetary-ethics.md)
 - [How Technology, AI, and Global Crisis Are Shaping Spirit](one-world-dharma/tech-crisis-spirit.md)
 
-## 🧾 Archive & Source Library
+## Archive & Source Library
 
 **A curated canon of conscious evolution**
 
@@ -160,26 +160,26 @@ To map the full spectrum of human consciousness and spiritual development throug
 
 ## Navigation Modes
 
-### 🌀 By Model
+### By Model
 - [Wilber](maps-of-human-evolution/integral-theory.md)
 - [Vervaeke](maps-of-human-evolution/vervaeke-model.md)
 - [Gebser](maps-of-human-evolution/gebser-structures.md)
 - [Spiral Dynamics](maps-of-human-evolution/spiral-dynamics.md)
 
-### 🛤 By Stage
+### By Stage
 - [Archaic to Integral to Meta-Integral](maps-of-human-evolution/developmental-stages.md)
 
-### 🔎 By Term or Symptom
+### By Term or Symptom
 - [Dark Night](glossary/dark-night.md)
 - [Collective Ego](glossary/collective-ego.md)
 - [Authentic Self](glossary/authentic-self.md)
 
-### 🧭 By Path or Tradition
+### By Path or Tradition
 - [Sufism](traditions/sufism.md)
 - [Tantra](traditions/tantra.md)
 - [Christianity](traditions/christianity.md)
 
-### 🧱 By Practice Type
+### By Practice Type
 - [Stillness](practices/meditation-practices.md)
 - [Inquiry](practices/self-inquiry.md)
 - [Shadow](practices/shadow-work.md)

@@ -1,0 +1,181 @@
+/* Hide Left Navigation CSS for Material for MkDocs */
+
+/* Hide the primary navigation completely (left nav) */
+.md-nav--primary {
+    display: none !important;
+}
+
+/* Hide the left navigation toggle button */
+[data-md-toggle="drawer"] {
+    display: none !important;
+}
+
+/* Hide the left drawer overlay */
+.md-drawer--primary {
+    display: none !important;
+}
+
+/* Adjust main content to use full width from left */
+.md-main {
+    margin-left: 0 !important;
+}
+
+/* Adjust main content inner container */
+.md-main__inner {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+}
+
+/* Ensure content uses full available width */
+.md-content {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+}
+
+/* Adjust the main content area */
+.md-main__inner .md-content {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+}
+
+/* Hide any left drawer-related elements */
+.md-drawer__inner--primary {
+    display: none !important;
+}
+
+/* Remove any left navigation-related spacing */
+.md-nav--primary {
+    display: none !important;
+}
+
+/* Ensure the body doesn't have left navigation-related classes */
+body.md-nav--open {
+    overflow: auto !important;
+}
+
+/* Adjust the header to not account for left navigation */
+.md-header {
+    position: relative !important;
+}
+
+/* Ensure proper spacing for content */
+.md-content__inner {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+}
+
+/* Hide any left navigation-related buttons in the header */
+.md-header__button[data-md-toggle="drawer"] {
+    display: none !important;
+}
+
+/* Ensure the search bar and other header elements are properly positioned */
+.md-header__source {
+    margin-left: auto !important;
+}
+
+/* Adjust the main content container */
+.md-container {
+    margin-left: 0 !important;
+}
+
+/* TOC Toggle Button Styles */
+.toc-toggle {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    width: 2.4rem;
+    height: 2.4rem;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    color: var(--md-primary-fg-color);
+    cursor: pointer;
+    transition: opacity 0.25s;
+}
+
+.toc-toggle:hover {
+    opacity: 0.7;
+}
+
+.toc-toggle-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* TOC Transition Styles */
+.toc-transition {
+    transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out;
+}
+
+.toc-hidden {
+    opacity: 0;
+    visibility: hidden;
+}
+
+/* Hide all emojis */
+.emoji,
+[class*="emoji"],
+[class*="twemoji"],
+[class*="material-extensions-emoji"],
+img[src*="emoji"],
+img[src*="twemoji"],
+img[alt*="emoji"],
+img[alt*=":"],
+span[class*="emoji"],
+span[class*="twemoji"],
+span[class*="material-extensions-emoji"] {
+    display: none !important;
+}
+
+/* Hide emoji text content */
+.emoji::before,
+.emoji::after,
+[class*="emoji"]::before,
+[class*="emoji"]::after,
+[class*="twemoji"]::before,
+[class*="twemoji"]::after {
+    display: none !important;
+    content: none !important;
+}
+
+/* Ensure proper responsive behavior */
+@media screen and (min-width: 76.25em) {
+    .md-main__inner {
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+    }
+    
+    .md-content {
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+    }
+}
+
+/* Mobile styles */
+@media screen and (max-width: 1219px) {
+    /* Hide TOC by default on mobile */
+    .md-nav--secondary {
+        opacity: 0;
+        visibility: hidden;
+    }
+    
+    /* Show toggle button on mobile */
+    .toc-toggle {
+        display: flex !important;
+    }
+}
+
+/* Desktop styles */
+@media screen and (min-width: 1220px) {
+    /* Hide toggle button on desktop when TOC is visible */
+    .toc-toggle.toc-hidden {
+        display: none !important;
+    }
+    
+    /* Show toggle button when TOC is hidden */
+    .toc-toggle:not(.toc-hidden) {
+        display: flex !important;
+    }
+} 

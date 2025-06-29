@@ -1,4 +1,4 @@
-# Integral Theory (Ken Wilber's AQAL) 🌀
+# Integral Theory (Ken Wilber's AQAL)
 
 > *"Everyone is right, but only partially right."* — Ken Wilber
 

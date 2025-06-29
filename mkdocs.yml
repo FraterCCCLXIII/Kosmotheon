@@ -64,7 +64,7 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
-      title: On this page
+      title: Contents
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
@@ -111,8 +111,10 @@ extra:
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/hide-nav.css
 
 extra_javascript:
   - javascripts/mathjax.js
+  - javascripts/hide-nav.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js

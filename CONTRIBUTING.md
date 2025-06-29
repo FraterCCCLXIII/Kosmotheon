@@ -1,366 +1,333 @@
-# Contributing to Kosmotheon 🌌
+# Contributing to Kosmotheon
 
-Thank you for your interest in contributing to Kosmotheon! This document provides guidelines and information for contributors.
+> *"The best way to find yourself is to lose yourself in the service of others."* — Mahatma Gandhi
+
+Thank you for your interest in contributing to Kosmotheon! This is an open-source, collaborative project that aims to map the full spectrum of human consciousness, spiritual development, and cultural evolution. We welcome contributions from scholars, practitioners, and seekers of all traditions.
 
 ## Table of Contents
 
-- [Code of Conduct](#code-of-conduct)
-- [How Can I Contribute?](#how-can-i-contribute)
+- [About This Project](#about-this-project)
+- [How to Contribute](#how-to-contribute)
 - [Content Guidelines](#content-guidelines)
-- [Technical Guidelines](#technical-guidelines)
 - [Style Guide](#style-guide)
-- [Development Setup](#development-setup)
-- [Pull Request Process](#pull-request-process)
-- [Reporting Issues](#reporting-issues)
-- [Community Guidelines](#community-guidelines)
+- [Technical Guidelines](#technical-guidelines)
+- [Review Process](#review-process)
+- [Code of Conduct](#code-of-conduct)
 
-## Code of Conduct
+## About This Project
 
-### Our Pledge
+Kosmotheon serves as a comprehensive atlas of inner and outer transformation, blending developmental models with the depth of nondual mysticism, the diversity of world traditions, and the clarity of cognitive science. It creates a unified framework to understand the unfolding of Kosmic Consciousness across individuals, cultures, and civilizations.
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+### Our Mission
 
-### Our Standards
+To map the full spectrum of human consciousness and spiritual development through:
 
-Examples of behavior that contributes to a positive environment for our community include:
+- **Integrative Models**: Combining Spiral Dynamics, Integral Theory, 4E Cognition, and more
+- **Cross-Traditional Wisdom**: Drawing from world religions, indigenous traditions, and modern spiritual movements
+- **Developmental Awareness**: Understanding consciousness as an evolving, stage-based phenomenon
+- **Practical Application**: Providing tools and frameworks for personal and collective transformation
 
-- **Demonstrating empathy and kindness** toward other people
-- **Being respectful** of differing opinions, viewpoints, and experiences
-- **Giving and gracefully accepting** constructive feedback
-- **Accepting responsibility** and apologizing to those affected by our mistakes
-- **Focusing on what is best** for the overall community
+### Content Areas
 
-Examples of unacceptable behavior include:
+#### The Kosmos
+- Foundation of reality and consciousness
+- Metaphysical views and cosmological perspectives
+- Time, space, and the kosmic pattern
 
-- **The use of sexualized language or imagery**, and sexual attention or advances
-- **Trolling, insulting or derogatory comments**, and personal or political attacks
-- **Public or private harassment**
-- **Publishing others' private information**, such as a physical or email address, without their explicit permission
-- **Other conduct which could reasonably be considered inappropriate** in a professional setting
+#### Maps of Human Evolution
+- Psychological, cognitive, cultural development
+- Developmental models and frameworks
+- Stage theories and typologies
 
-## How Can I Contribute?
+#### States & Stages of Consciousness
+- Temporary and permanent transformations of awareness
+- Peak experiences and spiritual emergencies
+- Sleep, dreaming, and altered states
 
-### Content Contributions
+#### Paths, Practices & Psychotechnologies
+- Tools and methods for transformation
+- Meditation, inquiry, and embodied practices
+- Relational and ritual practices
 
-We welcome contributions in the following areas:
+#### Religious Evolution & Wisdom Traditions
+- The unfolding story of spirit through history
+- Comparative religion and emerging traditions
+- Evolution from mythic to integral perspectives
 
-#### 🧭 The Kosmos
-- **Kosmic Consciousness**: Core concepts and frameworks
-- **Metaphysics**: Nonduality, panentheism, process ontology
-- **Evolutionary Cosmology**: From matter to mind
-- **Time and Space**: Kosmic patterns and consciousness
+#### Positive & Negative Ego
+- A developmental and energetic view of identity
+- Healthy and distorted ego patterns
+- Ego at different developmental stages
 
-#### 🧬 Maps of Human Evolution
-- **Developmental Models**: Spiral Dynamics, Integral Theory, 4E Cognition
-- **Stage Theories**: Ego development, cognitive development
-- **Typologies**: Jungian, Enneagram, personality systems
-- **Cultural Evolution**: Historical development of consciousness
+#### Consciousness Profiles Index
+- A codex of consciousness patterns
+- Flow state, samadhi, dark night experiences
+- Shadow inflation and authentic self
 
-#### 🧠 States & Stages of Consciousness
-- **Consciousness States**: Gross, subtle, causal, witnessing, nondual
-- **Peak Experiences**: Temporary transcendent moments
-- **Spiritual Emergencies**: Crisis and integration
-- **Sleep and Dream States**: Altered states of consciousness
+#### Teachers, Thinkers & Lineages
+- The kosmic library of the sages
+- Key figures and their contributions
+- Lineages and traditions
 
-#### 🕊 Paths, Practices & Psychotechnologies
-- **Meditation Practices**: Various forms and traditions
-- **Relational Practices**: Dialogos, Circling, IFS
-- **Embodied Practices**: Yoga, ritual, movement
-- **Integral Life Practice**: Comprehensive frameworks
+#### Glossary & Kosmic Lexicon
+- Cross-model terminology index
+- Interfaith terms and spiritual jargon
+- Consciousness state classifications
 
-#### 🕯 Religious Evolution & Wisdom Traditions
-- **World Religions**: Hinduism, Buddhism, Christianity, Islam, etc.
-- **Indigenous Traditions**: Native wisdom and practices
-- **Mystical Schools**: Kabbalah, Sufism, Gnosticism
-- **Emerging Traditions**: Modern spiritual movements
+#### Kosmic Culture & Mythopoesis
+- Aesthetic expressions of awakening
+- Metamodern art, film, and music
+- New myths and archetypes
 
-#### 🧘 Positive & Negative Ego
-- **Ego Development**: Healthy and unhealthy patterns
-- **Spiritual Narcissism**: Common pitfalls and distortions
-- **Authentic Self**: True nature and expression
-- **Integration**: Balancing transcendence and embodiment
+#### Future of Religion & One-World Dharma
+- Toward a post-lineage planetary spirituality
+- Meta-religion and inclusive enlightenment
+- Technology, AI, and global crisis
 
-#### 🧬 Consciousness Profiles Index
-- **Flow State**: Optimal experience and performance
-- **Samadhi**: Deep meditative absorption
-- **Dark Night**: Spiritual crisis and transformation
-- **Shadow Inflation**: Unconscious identification
-- **Collective Ego**: Group identity patterns
+## How to Contribute
 
-#### 📚 Teachers, Thinkers & Lineages
-- **Individual Profiles**: Biographies and contributions
-- **Lineage Maps**: Historical connections and influences
-- **Core Teachings**: Key concepts and frameworks
-- **Contemporary Voices**: Modern teachers and thinkers
+### Getting Started
 
-#### 🕸 Glossary & Kosmic Lexicon
-- **Term Definitions**: Clear, cross-referenced explanations
-- **Model Integration**: Connecting concepts across frameworks
-- **Etymology**: Historical development of terms
-- **Usage Examples**: Practical applications
+1. **Fork the repository**
+   - Click the "Fork" button on the GitHub repository page
+   - This creates your own copy of the project
 
-#### 🎨 Kosmic Culture & Mythopoesis
-- **Art and Aesthetics**: Creative expressions of awakening
-- **Myth and Story**: New narratives for our time
-- **Technology and Consciousness**: Digital spirituality
-- **Sacred Futurism**: Designing for evolution
-
-#### 🌍 Future of Religion & One-World Dharma
-- **Meta-Religion**: Post-lineage spirituality
-- **Planetary Ethics**: Global consciousness
-- **Technology and Spirit**: AI, consciousness, and evolution
-- **Crisis and Opportunity**: Spiritual response to global challenges
-
-### Technical Contributions
-
-- **Website Development**: Improving the MkDocs site
-- **Content Organization**: Better navigation and structure
-- **Search and Discovery**: Enhanced findability
-- **Visual Design**: Graphics, diagrams, and visual elements
-- **Accessibility**: Making content available to all
-
-### Community Contributions
-
-- **Discussion Participation**: Engaging in GitHub Discussions
-- **Issue Reporting**: Identifying problems and suggesting improvements
-- **Documentation**: Improving guides and instructions
-- **Translation**: Making content available in other languages
-
-## Content Guidelines
-
-### Accuracy and Sources
-
-- **Fact-Check**: Verify information before contributing
-- **Cite Sources**: Include references and citations
-- **Multiple Perspectives**: Present diverse viewpoints fairly
-- **Distinguish Fact from Opinion**: Clearly separate objective and subjective content
-
-### Inclusivity and Respect
-
-- **Honor All Traditions**: Respect diverse spiritual and cultural perspectives
-- **Avoid Dogma**: Present ideas without claiming absolute truth
-- **Cultural Sensitivity**: Be aware of cultural context and appropriation
-- **Gender and Identity**: Use inclusive language and respect diverse identities
-
-### Clarity and Accessibility
-
-- **Clear Writing**: Use simple, direct language
-- **Define Terms**: Explain specialized terminology
-- **Provide Examples**: Include practical illustrations
-- **Cross-Reference**: Link to related content
-
-### Integration and Synthesis
-
-- **Connect Ideas**: Show relationships between concepts
-- **Bridge Traditions**: Find common patterns across cultures
-- **Developmental Awareness**: Consider different levels of understanding
-- **Practical Application**: Include real-world relevance
-
-## Technical Guidelines
-
-### File Organization
-
-- **Consistent Naming**: Use kebab-case for file names
-- **Logical Structure**: Organize content in intuitive categories
-- **Cross-References**: Link related content appropriately
-- **Metadata**: Include tags and categories
-
-### Markdown Formatting
-
-- **Headers**: Use appropriate heading levels (H1, H2, H3, etc.)
-- **Lists**: Use consistent list formatting
-- **Links**: Include descriptive link text
-- **Images**: Provide alt text and captions
-- **Code**: Use appropriate code blocks and syntax highlighting
-
-### Content Structure
-
-- **Introduction**: Start with an overview
-- **Main Content**: Organize in logical sections
-- **Examples**: Include practical illustrations
-- **References**: Provide sources and further reading
-- **Cross-References**: Link to related content
-
-## Style Guide
-
-### Writing Style
-
-- **Tone**: Respectful, inclusive, and accessible
-- **Voice**: Active voice preferred
-- **Person**: Second person (you) for direct address
-- **Tense**: Present tense for general concepts, past tense for historical events
-
-### Formatting
-
-- **Headers**: Use descriptive, keyword-rich titles
-- **Bold**: Use for emphasis and key terms
-- **Italics**: Use for book titles, foreign terms, and emphasis
-- **Quotes**: Use blockquotes for extended quotations
-- **Lists**: Use bullet points for unordered lists, numbers for ordered lists
-
-### Citations
-
-- **Inline Citations**: Use footnotes or parenthetical references
-- **Bibliography**: Include a references section
-- **Format**: Use consistent citation style (APA, Chicago, etc.)
-- **Links**: Include links to online sources when available
-
-### Images and Media
-
-- **Alt Text**: Provide descriptive alt text for all images
-- **Captions**: Include informative captions
-- **Sources**: Credit image creators and sources
-- **Format**: Use web-optimized formats (PNG, JPG, SVG)
-
-## Development Setup
-
-### Prerequisites
-
-- Python 3.8 or higher
-- Git
-- A text editor (VS Code, Sublime Text, etc.)
-
-### Local Development
-
-1. **Fork the repository** on GitHub
-2. **Clone your fork** locally:
+2. **Clone your fork**
    ```bash
    git clone https://github.com/YOUR_USERNAME/kosmotheon.git
    cd kosmotheon
    ```
 
-3. **Install dependencies**:
+3. **Set up the development environment**
    ```bash
-   pip install mkdocs-material mkdocs-awesome-pages-plugin mkdocs-git-revision-date-localized-plugin mkdocs-minify-plugin
+   pip install mkdocs-material
+   pip install mkdocs-awesome-pages-plugin
+   pip install mkdocs-git-revision-date-localized-plugin
+   pip install mkdocs-minify-plugin
    ```
 
-4. **Start the development server**:
+4. **Start the development server**
    ```bash
    mkdocs serve
    ```
 
-5. **Open your browser** to `http://127.0.0.1:8000`
+5. **Open your browser**
+   Navigate to `http://127.0.0.1:8000` to preview your changes
 
 ### Making Changes
 
-1. **Create a feature branch**:
+1. **Create a feature branch**
    ```bash
    git checkout -b feature/your-feature-name
    ```
 
-2. **Make your changes** in the `docs/` directory
+2. **Make your changes**
+   - Edit existing files or create new ones
+   - Follow the content and style guidelines below
+   - Test your changes with `mkdocs serve`
 
-3. **Test your changes** by viewing them in the browser
-
-4. **Commit your changes**:
+3. **Commit your changes**
    ```bash
    git add .
    git commit -m "Add: brief description of your changes"
    ```
 
-5. **Push to your fork**:
+4. **Push to your fork**
    ```bash
    git push origin feature/your-feature-name
    ```
 
-## Pull Request Process
+5. **Create a Pull Request**
+   - Go to your fork on GitHub
+   - Click "New Pull Request"
+   - Select your feature branch
+   - Fill out the PR template
+   - Submit the PR
 
-### Before Submitting
+### Types of Contributions
 
-- **Test Locally**: Ensure your changes work correctly
-- **Check Formatting**: Verify markdown syntax and formatting
-- **Review Content**: Proofread for accuracy and clarity
-- **Update Documentation**: Add or update relevant documentation
+#### Content Contributions
+- **New pages**: Add content on new topics or concepts
+- **Expansions**: Expand existing pages with more detail
+- **Cross-references**: Add links between related content
+- **Examples**: Provide practical examples and applications
+- **Quotes**: Add relevant quotes from teachers and thinkers
 
-### Pull Request Guidelines
+#### Technical Contributions
+- **Bug fixes**: Fix issues with the website or documentation
+- **Feature improvements**: Enhance functionality
+- **Style improvements**: Improve CSS or layout
+- **Performance**: Optimize loading speed or responsiveness
+- **Accessibility**: Improve accessibility features
 
-- **Descriptive Title**: Use a clear, descriptive title
-- **Detailed Description**: Explain what and why you're changing
-- **Related Issues**: Link to any related issues
-- **Screenshots**: Include screenshots for visual changes
-- **Testing**: Describe how you tested your changes
+#### Editorial Contributions
+- **Grammar and spelling**: Fix typos and grammatical errors
+- **Clarity**: Improve clarity and readability
+- **Consistency**: Ensure consistent terminology and style
+- **Organization**: Improve content organization and structure
 
-### Review Process
+## Content Guidelines
 
-- **Code Review**: All changes are reviewed by maintainers
-- **Feedback**: Address any feedback or requested changes
-- **Approval**: Changes are merged after approval
-- **Attribution**: Contributors are credited in the project
+### Accuracy and Sources
+- **Verify information**: Ensure all facts and claims are accurate
+- **Cite sources**: Include references to books, papers, or other sources
+- **Cross-check**: Verify information across multiple sources when possible
+- **Distinguish**: Clearly distinguish between facts, interpretations, and opinions
 
-## Reporting Issues
+### Inclusivity and Respect
+- **Honor all traditions**: Respect all spiritual and religious traditions
+- **Avoid bias**: Present multiple perspectives fairly
+- **Cultural sensitivity**: Be mindful of cultural contexts and sensitivities
+- **Inclusive language**: Use language that includes diverse audiences
 
-### Bug Reports
+### Clarity and Accessibility
+- **Clear writing**: Write in clear, accessible language
+- **Define terms**: Define technical or specialized terms
+- **Provide context**: Give necessary background information
+- **Use examples**: Include practical examples and applications
 
-When reporting bugs, please include:
+### Integration and Connection
+- **Cross-references**: Link to related content throughout the site
+- **Model integration**: Connect concepts across different models and frameworks
+- **Tradition bridging**: Show connections between different traditions
+- **Practical application**: Include practical applications and implications
 
-- **Clear Description**: What happened vs. what you expected
-- **Steps to Reproduce**: Detailed steps to recreate the issue
-- **Environment**: Browser, operating system, etc.
-- **Screenshots**: Visual evidence if applicable
-- **Error Messages**: Full error text if any
+## Style Guide
 
-### Feature Requests
+### Headers and Structure
+- Use clear, descriptive headers
+- Follow a logical hierarchy (H1 > H2 > H3)
+- Include relevant quotes and citations
+- Use the provided CSS classes for enhanced styling
 
-When requesting features, please include:
+### Links and References
+- Use descriptive link text
+- Include cross-references to related content
+- Add external links for further reading
+- Use relative links for internal navigation
 
-- **Problem Statement**: What problem does this solve?
-- **Proposed Solution**: How should it work?
-- **Use Cases**: Who would benefit and how?
-- **Alternatives**: What other approaches have you considered?
+### Lists and Formatting
+- Use bullet points for lists of items
+- Use numbered lists for sequential steps
+- Use bold text for emphasis and key terms
+- Use italics for quotes and foreign terms
 
-### Content Issues
+### Code and Technical Content
+- Use code blocks for code examples
+- Include syntax highlighting when appropriate
+- Provide clear explanations of technical concepts
+- Use inline code formatting for technical terms
 
-When reporting content issues, please include:
+### Images and Media
+- Include relevant images when helpful
+- Provide alt text for accessibility
+- Use appropriate image formats and sizes
+- Include captions and attributions
 
-- **Specific Location**: Page and section where the issue occurs
-- **Description**: What's wrong or missing
-- **Suggested Fix**: How it should be corrected
-- **Sources**: References to support your suggestion
+## Technical Guidelines
 
-## Community Guidelines
+### File Organization
+- Place new pages in appropriate directories
+- Use descriptive filenames
+- Follow the existing directory structure
+- Update navigation and indexes as needed
 
-### Communication
+### Markdown Formatting
+- Use standard Markdown syntax
+- Follow the existing formatting patterns
+- Include front matter for metadata when needed
+- Use appropriate heading levels
 
-- **Be Respectful**: Treat others with kindness and respect
-- **Be Constructive**: Provide helpful, actionable feedback
-- **Be Patient**: Allow time for responses and reviews
-- **Be Collaborative**: Work together toward common goals
+### CSS and Styling
+- Use existing CSS classes when available
+- Follow the established design patterns
+- Test changes across different screen sizes
+- Ensure accessibility compliance
 
-### Learning and Growth
+### JavaScript Enhancements
+- Test functionality across different browsers
+- Ensure graceful degradation
+- Follow existing code patterns
+- Document new features
 
-- **Ask Questions**: Don't hesitate to ask for clarification
-- **Share Knowledge**: Help others learn and grow
-- **Accept Feedback**: Be open to constructive criticism
-- **Continuous Improvement**: Always strive to do better
+## Review Process
 
-### Recognition and Credit
+### Pull Request Review
+- All PRs will be reviewed by maintainers
+- Reviews focus on content accuracy, style, and technical quality
+- Feedback will be provided for improvements
+- Changes may be requested before merging
 
-- **Acknowledge Contributions**: Credit others for their work
-- **Share Success**: Celebrate community achievements
-- **Mentor Others**: Help newcomers get involved
-- **Build Relationships**: Connect with other contributors
+### Content Review Criteria
+- **Accuracy**: Information is factually correct
+- **Clarity**: Content is clear and well-written
+- **Integration**: Content connects with existing material
+- **Completeness**: Content is sufficiently detailed
+- **Style**: Follows established style guidelines
+
+### Technical Review Criteria
+- **Functionality**: Changes work as intended
+- **Performance**: No negative impact on site performance
+- **Compatibility**: Works across different devices and browsers
+- **Accessibility**: Maintains or improves accessibility
+- **Code quality**: Follows best practices and patterns
+
+## Code of Conduct
+
+### Our Standards
+- **Respect**: Treat all contributors with respect and dignity
+- **Inclusivity**: Welcome contributions from diverse backgrounds
+- **Collaboration**: Work together constructively
+- **Learning**: Support learning and growth for all contributors
+
+### Unacceptable Behavior
+- **Harassment**: Any form of harassment or discrimination
+- **Disrespect**: Disrespectful or dismissive behavior
+- **Spam**: Irrelevant or promotional content
+- **Vandalism**: Deliberate damage or disruption
+
+### Enforcement
+- Violations will be addressed by project maintainers
+- Actions may include warnings, temporary bans, or permanent exclusion
+- Appeals can be made to the project maintainers
+- Serious violations will be reported to appropriate authorities
+
+### Reporting
+- Report violations to project maintainers
+- Include specific details and evidence
+- Maintain confidentiality when requested
+- Work with maintainers to resolve issues
 
 ## Getting Help
 
-### Resources
-
-- **Documentation**: Check the README and other docs first
-- **GitHub Discussions**: Ask questions and share ideas
-- **GitHub Issues**: Report bugs and request features
-- **Community Chat**: Join our community channels
-
-### Contact
-
-- **Maintainers**: Reach out to project maintainers
+### Questions and Support
+- **GitHub Issues**: Use issues for bug reports and feature requests
+- **GitHub Discussions**: Use discussions for questions and general topics
+- **Documentation**: Check existing documentation first
 - **Community**: Engage with other contributors
-- **Feedback**: Share your thoughts and suggestions
 
-## Thank You
+### Resources
+- **MkDocs Documentation**: [mkdocs.org](https://www.mkdocs.org/)
+- **Material Theme**: [squidfunk.github.io/mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
+- **Markdown Guide**: [markdownguide.org](https://www.markdownguide.org/)
+- **Git Tutorial**: [git-scm.com](https://git-scm.com/)
 
-Thank you for contributing to Kosmotheon! Your participation helps create a comprehensive resource for understanding consciousness, spirituality, and human development. Together, we're mapping the full spectrum of human potential and creating tools for personal and collective transformation.
+## Recognition
+
+### Contributors
+- All contributors will be recognized in the project
+- Significant contributions will be highlighted
+- Contributors can be listed in acknowledgments
+- Special recognition for major contributions
+
+### Impact
+- Your contributions help create a valuable resource
+- Content reaches a global audience of seekers and scholars
+- Work contributes to the evolution of consciousness studies
+- Legacy of knowledge for future generations
 
 ---
 
-*"The best way to find yourself is to lose yourself in the service of others."* — Mahatma Gandhi
+*"We are not human beings having a spiritual experience. We are spiritual beings having a human experience."* — Pierre Teilhard de Chardin
 
-*"We are not human beings having a spiritual experience. We are spiritual beings having a human experience."* — Pierre Teilhard de Chardin 
+Thank you for contributing to the evolution of consciousness and the mapping of the kosmos! 

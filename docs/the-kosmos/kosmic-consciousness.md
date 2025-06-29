@@ -1,4 +1,4 @@
-# What is Kosmic Consciousness? 🌌
+# What is Kosmic Consciousness?
 
 > *"The universe is not a collection of objects, but a communion of subjects."* — Thomas Berry
 
